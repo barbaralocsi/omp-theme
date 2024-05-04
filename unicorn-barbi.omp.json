@@ -47,14 +47,6 @@
           "type": "git"
         },
         {
-          "background": "#003543",
-          "foreground": "#fff",
-          "powerline_symbol": "\ue0b0",
-          "style": "powerline",
-          "template": "<#fff> \ue641 </>{{ .CurrentDate | date .Format }} ",
-          "type": "time"
-        },
-        {
           "type": "kubectl",
           "style": "powerline",
           "powerline_symbol": "",
@@ -66,6 +58,14 @@
               // "openshift-virtualization-os-images/api-sandbox-m3-1530-p1-openshiftapps-com:6443/barbi-locsi": "oc-sandbox"
             }
           }
+        },
+        {
+          "background": "#003543",
+          "foreground": "#fff",
+          "powerline_symbol": "\ue0b0",
+          "style": "powerline",
+          "template": "<#fff> \ue641 </>{{ .CurrentDate | date .Format }} ",
+          "type": "time"
         },
         {
           "background": "#83769c",
