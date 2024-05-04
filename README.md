@@ -9,6 +9,6 @@ The original unicorn theme can be found at the following locations:
 # Changes:
 - An extra section has been added to display the last known status.
 
-![OK](ok.png)
+![OK](ok.PNG)
 
-![Error](error.png)
+![Error](error.PNG)
