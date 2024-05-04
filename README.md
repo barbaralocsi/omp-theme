@@ -8,6 +8,7 @@ The original unicorn theme can be found at the following locations:
 
 # Changes:
 - An extra section has been added to display the last known status.
+- Added a new section that shows the current kubectl context.
 
 ![OK](ok.PNG)
 
